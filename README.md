@@ -38,9 +38,9 @@
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=WurstelMC&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WurstelMC&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WurstelMC&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WurstelMC&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -54,7 +54,9 @@
 
 ## 📫 Contact
 
-- Discord: heartsbun
+[![Discord](https://img.shields.io/badge/Discord-heartsbun-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/)
+
+> Username: **heartsbun**
 
 ---
 
