@@ -9,7 +9,7 @@
 ### 🚀 Building toward Minecraft Marketplace
 
 [![Discord](https://img.shields.io/badge/Discord-heartsbun-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-42K-blue?style=for-the-badge)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-185-blue?style=for-the-badge)
 
 <!-- subtle flex badges -->
 ![Marketplace Ready](https://img.shields.io/badge/Minecraft-Marketplace%20Ready-3C8527?style=for-the-badge&logo=minecraft&logoColor=white)
