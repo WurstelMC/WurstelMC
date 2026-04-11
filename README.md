@@ -54,7 +54,7 @@
 
 ## 📫 Contact
 
-- GitHub: https://github.com/WurstelMC
+- Discord: heartsbun
 
 ---
 
