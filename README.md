@@ -11,11 +11,6 @@
 [![Discord](https://img.shields.io/badge/Discord-heartsbun-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/)
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-185-blue?style=for-the-badge)
 
-<!-- subtle flex badges -->
-![Marketplace Ready](https://img.shields.io/badge/Minecraft-Marketplace%20Ready-3C8527?style=for-the-badge&logo=minecraft&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge)
-![Top Dev](https://img.shields.io/badge/Top%20Developer-Active-orange?style=for-the-badge)
-
 </div>
 
 ---
@@ -56,6 +51,31 @@
 
 ---
 
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-purple?style=for-the-badge&logo=github)
+![Galaxy Brain](https://img.shields.io/badge/GitHub-Galaxy%20Brain-8A2BE2?style=for-the-badge&logo=github)
+![Starstruck](https://img.shields.io/badge/GitHub-Starstruck-yellow?style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+## 🌟 Community Status
+
+<div align="center">
+
+![Top Developer](https://img.shields.io/badge/Top%201%25%20Developer-Community%20Rank-00C896?style=for-the-badge)
+![Verified Creator](https://img.shields.io/badge/Verified%20Creator-Content%20Developer-5865F2?style=for-the-badge)
+![Marketplace Builder](https://img.shields.io/badge/Minecraft-Marketplace%20Builder-3C8527?style=for-the-badge&logo=minecraft&logoColor=white)
+![Elite Add-on Dev](https://img.shields.io/badge/Elite%20Add--on%20Developer-Bedrock%20Specialist-orange?style=for-the-badge)
+
+</div>
+
+---
+
 ## 📌 Current Focus
 
 ```txt
@@ -63,18 +83,6 @@
 - Unique gameplay systems
 - Expanding Bedrock mechanics
 ```
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Arctic Code Vault](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-2ea44f?style=for-the-badge&logo=github)
-![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-purple?style=for-the-badge&logo=github)
-![YOLO](https://img.shields.io/badge/GitHub-YOLO-yellow?style=for-the-badge&logo=github)
-
-</div>
 
 ---
 
@@ -96,6 +104,6 @@
 
 <div align="center">
 
-⭐ *Always building. Always improving.*
+⭐ Always building. Always improving.
 
 </div>
